@@ -7,7 +7,7 @@ In this project we were given a web-based application that reads RSS feeds and w
 
 # How to run this application
 1. Clone/download all files in repository to your computer.
-2. Find the index.html main folder.
+2. Find the index.html in main folder.
 3. Open index.html in your preferred browser.
 
 # Project Dependencies
